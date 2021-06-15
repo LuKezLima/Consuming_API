@@ -1,0 +1,21 @@
+
+{
+  "name": "Consuming_API",
+  "version": "1.0.0",
+  "description": "<h1>Opa </h1>",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuKezLima/Consuming_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuKezLima/Consuming_API/issues"
+  },
+  "homepage": "https://github.com/LuKezLima/Consuming_API#readme"
+}
